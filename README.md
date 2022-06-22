@@ -2,6 +2,7 @@
 Processo seletivo Front-end júnior.
 
 Desafio Hyperativa
+
 Sobre o desafio
 Por boas práticas interpretadores de e-mail classificam como spam mensagens com quantidades elevadas de imagem e pouco texto. O HTML disponilizado possui um bloco central todo ele composto por imagens, o desafio é ajustar o box central para o mínimo de imagens possível. Como solução apresentar um novo arquivo HTML ajustado.
 
@@ -13,7 +14,10 @@ O Zeplin é uma ferramenta, que entre várias funcionalidades, permite exportar 
 Acesse o site https://zeplin.io/.
 Caso não possua uma conta, crie uma conta com o e-mail fornecido no CV. (Dica: caso seu e-mail seja gmail, utilize a autenticação via Google para criação da conta).
 Complete a criação da conta (ou faça login) e verifique se tem acesso ao projeto "TESTE - Frontend".
+
+
 Orientações
+
 HTML e imagens necessárias ao exercício estão disponibilizados neste repositório.
 Verifique se possui todos os acessos necessários no Zeplin para realizar o execício.
 Coloque isso em um repositório GIT.
